@@ -1,5 +1,5 @@
 # Diablo II Mod v1.13c
 
-Change Log:
+### Change Log:
 
 - enlarged the invertory
