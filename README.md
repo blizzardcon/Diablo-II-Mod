@@ -24,4 +24,5 @@ Ignore Target's Defense<br />
 All Resistances 30 - 40<br />
 14 Life after each Kill<br />
 30% Better Chance of Getting Magic Items<br />
+1/2 lvl % Better Chance of Getting Magic Items (Based on Character Level)
 Requirements -20%<br />
